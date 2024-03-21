@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column; /* Stack items vertically */
+  background-color: black;
+}
+
+h1, h3, a {
+  color: yellow;
+  margin: 0; /* Remove default margins */
+}
